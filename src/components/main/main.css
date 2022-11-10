@@ -1,0 +1,19 @@
+.signup-header {
+    background: rgba(0, 0, 0, 0.5) url("../../images/signup.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    background-blend-mode: darken;
+  }
+  .banner-section-con {
+    padding: 148px 0px;
+  }
+  .banner-inner {
+    background-color: transparent;
+    text-align: center;
+  }
+  .banner-inner h1 {
+    font-weight: bold;
+    color: #2cc4ed;
+    font-size: 60px;
+  }
