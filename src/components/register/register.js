@@ -102,7 +102,7 @@ const Register = () => {
             onChange={handleChange}
           ></input>
           <input
-            type="text"
+            type="date"
             name="expiry"
             value={user.expiry}
             placeholder="Expiry"
