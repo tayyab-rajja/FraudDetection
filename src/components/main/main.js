@@ -7,7 +7,7 @@ const Main = () => {
         <div className="signup-header">
         <div className="banner-section-con">
           <div className="banner-inner">
-            <h1>CREDIT CARD <br/>FRAUD DETECTION SYSTEM </h1>
+            <h1 className="main-header">CODING CHALLENGE </h1>
           </div>
         </div>
       </div>
